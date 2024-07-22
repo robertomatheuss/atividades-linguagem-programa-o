@@ -1,6 +1,6 @@
 # Repositório de Atividades de Programação
 
-Este repositório foi criado para armazenar todas as atividades realizadas no curso, divididas em diferentes pastas conforme a natureza e o objetivo das atividades. A seguir, uma breve descrição de cada uma das pastas e suas respectivas atividades:
+Este repositório foi criado para armazenar todas as atividades realizadas na matéria Linguagem de programação, divididas em diferentes pastas conforme a natureza e o objetivo das atividades. A seguir, uma breve descrição de cada uma das pastas e suas respectivas atividades:
 
 ## Estrutura do Repositório
 
