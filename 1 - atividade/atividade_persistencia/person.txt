@@ -1,0 +1,4 @@
+Nome: lucas|Idade :21 anos|Sexo :F|Telefone :343|
+Nome: carlo|Idade :23 anos|Sexo :F|Telefone :3234|
+Nome: lucas lu|Idade :45 anos|Sexo :M|Telefone :232|
+Nome: bubu|Idade :45 anos|Sexo :M|Telefone :232|
